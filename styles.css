@@ -207,7 +207,7 @@ h2 {
   margin-bottom: 5rem;
   display: flex;
   justify-content: center;
-  padding: 60px;
+  /* padding: 60px; */
 }
 
 /* For margin practice */
@@ -232,5 +232,6 @@ h2 {
   box-sizing: border-box;
   background-color: lightblue;
   background-clip: content-box, padding-box;
-  /* TODO */
+  padding: 60px
+    /* TODO */
 }
